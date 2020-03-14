@@ -20,9 +20,9 @@ new_face_recognition.py
 
 附上测试图片：
 
-![](https://github.com/DeteMin/face-tensorflow/20200314134529.jpg)
+![](https://github.com/DeteMin/face-tensorflow/blob/master/20200314134529.jpg)
 
-![](https://github.com/DeteMin/face-tensorflow/20200314134552.jpg)
+![](https://github.com/DeteMin/face-tensorflow/blob/master/20200314134552.jpg)
 
 注意：暂时没有活体检测功能。
 
