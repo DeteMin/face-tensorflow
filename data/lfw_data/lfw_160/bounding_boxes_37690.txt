@@ -1,0 +1,3 @@
+/home/jinersong/workspace/face_test/data/lfw_data/lfw_160/jinersong/jinersong_0003.png 68 88 191 228
+/home/jinersong/workspace/face_test/data/lfw_data/lfw_160/jinersong/jinersong_0001.png 54 88 198 246
+/home/jinersong/workspace/face_test/data/lfw_data/lfw_160/jinersong/jinersong_0002.png 0 84 139 239
